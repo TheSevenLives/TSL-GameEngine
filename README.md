@@ -1,7 +1,7 @@
 ![Project logo](Content/Logo/TSL-GameEngine_Large_logo.png?raw=true)
 # TSL-GameEngine [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-orange.svg)](COPYING.LESSER)
 TSL-GameEngine (or TSL-GE, or TheSevenLives-GameEngine) is the python game engine, using
-[Pygame](https://www.pygame.org/wiki/about), developed for the video game
+[PyOpenGL](https://pyopengl.sourceforge.net/), developed for the video game
 [The Seven Lives](https://github.com/TheSevenLives/TheSevenLives). It allow you to make a python game easier by
 predefining usefull classes and functions, such as an entire camera system or an enchanced command line parser. _(A more
 detailed description will come sooner)_
